@@ -1,25 +1,25 @@
 ![Profile views](https://gpvc.arturio.dev/Fehdev1)
 
-### Ola! eu me chamo Feh  😁🚀
+### Hello! I'm Feh.  😁🚀
 <br>
 
-- 👨‍💻 Atualmente, estou explorando o mundo do Front-end e altuamente estudando Analista de Sistemas..
-- 💻 Me aventurando em um mundo cheio de linguagens de programação - é como ter um encontro às cegas com o código!
-- 🚀 Apaixonado por programação e dedicado a aprender constantemente para evoluir como desenvolvedor.
-- 💡 Aberto a colaborar em projetos emocionantes e contribuir com minha perspectiva inovadora.
+- 👨‍💻 I am currently exploring the world of Front-end and highly studying Systems Analyst.
+- 💻 Adventuring into a world full of programming languages - it's like having a blind date with code!
+- 🚀 Passionate about programming and dedicated to constantly learning to evolve as a developer.
+- 💡 Open to collaborating on exciting projects and contributing my innovative perspective.
 
   
   ![giphy](https://github.com/Fehdev1/Fehdev1/assets/124939815/44ad5947-4420-4b01-8153-720183756a8f)
  ![giphy (1)](https://github.com/Fehdev1/Fehdev1/assets/124939815/2097499e-0d10-4890-a833-6b68b1e9c7dd)
 <br><br>
 
-### Minhas Redes Sociais
+### My Social Networks
 
 [![Rede Socias](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feew_ss)
 [![Rede Socias](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santos-b43580272/)
 <br>
 
-## Linguagens que mais utilizo
+## Languages I use most
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
