@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Fehdev1)
+
 
 ### Hello! I'm Feh.  😁🚀
 <br>
